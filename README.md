@@ -24,7 +24,7 @@ This workshop walks you through all the steps to get started with using **Oracle
 
 ## How to View the Lab Guides
 
-- The Lab Guides are best viewed using the Workshop's [GitHub Pages Website URL](https://github.com/restonappdev/Oracle-University-Workshop/blob/master/README.md) 
+- The Lab Guides are best viewed using the Workshop's [GitHub Pages Website URL](https://github.com/restonappdev/Oracle-Shared-Mobility-Workshop/blob/master/README.md) 
 
 
 - Once you are viewing the Workshop's GitHub Pages website, you can see a list of Lab Guides at any time by clicking on the **Menu Icon**
