@@ -1,7 +1,7 @@
 {
     "workshop": {
         "title": "Oracle Shared Mobility Device Services Blockchain Workshop - Docker Version",
-        "description": "This is the Docker Version of the Shared Mobility Device Service Blockchain Workshop",
+        "description": "This is the Docker version of the Shared Mobility Device Service Blockchain Workshop",
         "theme": "default",
         "labs": [
             {
