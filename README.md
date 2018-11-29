@@ -36,7 +36,7 @@ In this lab, we are creating a network to help a local government, the *City of 
 
 
 ## How to View the Lab Guides
-- The Lab Guides are best viewed using the Workshop's [GitHub Pages Website URL](https://github.com/restonappdev/Oracle-Shared-Mobility-Workshop/blob/master/README.md)
+- The Lab Guides are best viewed using the Workshop's [GitHub Pages Website URL](https://restonappdev.github.io/Oracle-Shared-Mobility-Workshop/?page=README.md)
 
 
 - Once you are viewing the Workshop's GitHub Pages website, you can see a list of Lab Guides at any time by clicking on the **Menu Icon**
