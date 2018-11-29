@@ -27,10 +27,13 @@ In this lab, we are creating a network to help a local government, the *City of 
 **Lab 100**
 * The IP address for the OCI instance running the Oracle Blockchain Application.
 * The username and password to access the Oracle Blockchain Application on that instance.
+
 **Lab 200**
 * The chaincode files *tripLogger.go.zip* and *vehicleReg.go.zip* from the artifacts repository.
+
 **Lab 300**
 * Install git
+
 **Lab 400**
 * Install Postman
 
