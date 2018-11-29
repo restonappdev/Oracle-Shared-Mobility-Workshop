@@ -1,7 +1,7 @@
 {
     "workshop": {
-        "title": "Autonomous Mobile Cloud Enterprise - Intelligent Bot: Hands-On Workshop",
-        "description": "",
+        "title": "Oracle Blockchain Cloud Service - Shared Mobility Workshop (Docker Version)",
+        "description": "This is the Docker Version of the Shared Mobility Blockchain Workshop",
         "theme": "default",
         "labs": [
             {
