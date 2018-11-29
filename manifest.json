@@ -1,19 +1,19 @@
 {
     "workshop": {
-        "title": "Oracle Blockchain Cloud Service - Shared Mobility Workshop (Docker Version)",
-        "description": "This is the Docker Version of the Shared Mobility Blockchain Workshop",
+        "title": "Oracle Shared Mobility Device Services Blockchain Workshop - Docker Version",
+        "description": "This is the Docker Version of the Shared Mobility Device Service Blockchain Workshop",
         "theme": "default",
         "labs": [
             {
                 "number": "0",
                 "filename": "README.md",
                 "title": "Read Me First",
-                "description": "Oracle Blockchain Cloud Service - Docker Version Overview"
+                "description": "Oracle Shared Mobility Device Services Blockchain Workshop - Docker Version Overview"
             },
             {
                 "number": "100",
                 "filename": "Lab100.md",
-                "title": "Lab 100: Creating a Blockchain Network (Docker Version)",
+                "title": "Lab 100: Creating a Blockchain Network",
                 "description": "Understand Creating a Blockchain Network, Channels, and Understanding the Structure"
             },
             {
