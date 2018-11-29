@@ -1,5 +1,5 @@
-# Oracle-Shared-Mobility-Workshop
-Blockchain workshop using the shared mobility blockchain assets.
+# Oracle Shared Mobility Blockchain Workshop - Docker Version
+Blockchain workshop using the shared mobility blockchain assets via Docker Image.
 
 This workshop walks you through all the steps to get started with using **Oracle Blockchain Cloud Service** using a Docker Image. You'll learn how to set up founder and participant organizations, setup two different channels, install and insantiate chaincode, update your chaincode, and interact with your blockchain network via Rest Gateway.
 
