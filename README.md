@@ -1,6 +1,6 @@
 # Oracle Shared Mobility Device Services Blockchain Workshop - Docker Version
 
-This workshop walks you through all the steps to get started with using **Oracle Blockchain Cloud Service**. This lab has two versions. This version is for those who were provided access to an OCI instance with a Docker image running the Oracle Blockchain Service. If you did not receive access to such an instance, you should go to the version of this lab [using an Oracle Cloud account](https://github.com/restonappdev/Oracle-Shared-Mobility-Workshop-Cloud/blob/master/README.md).
+This workshop walks you through all the steps to get started with using **Oracle Blockchain Cloud Service**. This lab has two versions. This version is for those who were provided access to an OCI instance with a Docker image running the Oracle Blockchain Service. If you did not receive access to such an instance, you should go to the version of this lab using an Oracle Cloud account.
 
 In this lab, you'll learn how to create and configure a Founder-Participant blockchain network, set up channels between the organizations in the network, install/instantiate chaincodes, update those chaincodes, and interact with your blockchain network via REST proxy gateways.
 
